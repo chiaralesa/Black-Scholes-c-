@@ -1,5 +1,5 @@
 # Black-Scholes
-Comptuing Option Prices in C++
+Computing Option Prices in C++
 
 
 This is just a draft of a library I am creating to price options for fun in my free time and to practice some c++ coding.
